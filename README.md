@@ -34,7 +34,29 @@ User: zahid
 password: 654321
 
 # Documentation
-Coming Soon or in any case you can email us here: design.craze.bd@gmail.com
+
+.ENV FILE CONFIGURATION
+----------------------------
+REQUIRED----------------
+FOR DATABASE
+DB_HOST
+DB_DATABASE
+DB_USERNAME
+DB_PASSWORD
+
+RECOMMENDED:
+
+FOR MAILING SYSTEM-----------
+MAIL_HOST
+MAIL_PORT
+MAIL_USERNAME
+MAIL_PASSWORD
+
+FOR CAPTCHA (Google Captcha)--------
+NOCAPTCHA_SECRET
+NOCAPTCHA_SITEKEY
+-------------------
+More documentation is Coming Soon or in any case you can email us here: design.craze.bd@gmail.com
 
 # License Type
 Apache 2.0 License
