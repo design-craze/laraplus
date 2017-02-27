@@ -27,35 +27,50 @@ Laraplus is built with laravel 5.2.x and easily upgradeable to 5.4.x with a litt
 
 # Demo
 Default Template: http://www.laraplus.org
+
 Lara17 Template: http://www.lara17.laraplus.org
 
 # Login info
 User: zahid
+
 password: 654321
 
 # Documentation
 
 .ENV FILE CONFIGURATION
-----------------------------
+
 REQUIRED----------------
+
 FOR DATABASE
+
 DB_HOST
+
 DB_DATABASE
+
 DB_USERNAME
+
 DB_PASSWORD
+
 
 RECOMMENDED:
 
 FOR MAILING SYSTEM-----------
+
 MAIL_HOST
+
 MAIL_PORT
+
 MAIL_USERNAME
+
 MAIL_PASSWORD
 
 FOR CAPTCHA (Google Captcha)--------
+
 NOCAPTCHA_SECRET
+
 NOCAPTCHA_SITEKEY
 -------------------
+
 More documentation is Coming Soon or in any case you can email us here: design.craze.bd@gmail.com
 
 # License Type
@@ -63,7 +78,11 @@ Apache 2.0 License
 
 # Company
 Design-Craze - http://www.design-craze.com
+
 Developer: M.G. Rabbi & A. M. Zahidur Rahman
+
 email: design.craze.bd@gmail.com
+
 skype-id: design-craze
+
 Contact-no: +8801772473616
