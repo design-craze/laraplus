@@ -71,6 +71,10 @@ NOCAPTCHA_SECRET
 NOCAPTCHA_SITEKEY
 -------------------
 
+You can use migration and database seeder to get initial data in database. You can change user info from UserSeeder 
+
+or you can import the sql file included in download package. (here in this sql - the user password is: 654321) 
+
 More documentation is Coming Soon or in any case you can email us here: design.craze.bd@gmail.com
 
 # License Type
