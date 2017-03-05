@@ -69,6 +69,8 @@ FOR CAPTCHA (Google Captcha)--------
 NOCAPTCHA_SECRET
 
 NOCAPTCHA_SITEKEY
+
+
 -------------------
 
 You can use migration and database seeder to get initial data in database. You can change user info from UserSeeder 
